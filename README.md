@@ -52,7 +52,7 @@ For users without Google Play access, install the apk from the [**latest release
 
 ## 🏁 Get Started in Minutes!
 
-1. **Check OS Requirement**: Android 12 and up, and iOS 17 and up.
+1. **Check OS Requirement**: Android 8 and up, and iOS 17 and up.
 2.  **Download the App:**
     - Install the app from [Google Play](https://play.google.com/store/apps/details?id=com.google.ai.edge.gallery) or [App Store](https://apps.apple.com/us/app/google-ai-edge-gallery/id6749645337).
     - For users without Google Play access: install the apk from the [**latest release**](https://github.com/google-ai-edge/gallery/releases/latest/)
